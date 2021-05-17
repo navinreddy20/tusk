@@ -1,0 +1,4 @@
+Recipie:
+1.Go to KFC
+2.Order a chicken with quantity.
+Thankyou.
